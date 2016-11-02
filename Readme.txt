@@ -3,12 +3,12 @@ Paint Application.
 Joel D'souza
 111503017
 
-Please Unzip first
-
 Paint is a free drawing program. It has a simple and easy-to-use interface. It provides a blank canvas on the right side of the vertical line and a variety of drawing tools on the left to help you be creative. Paint has 255 * 255 * 255 color combinations and you can choose any using Palette provided in the tools section. Paint can also save the canvas area in png format using the Save Tool.
 
 How to select icon ? 
 To select a tool, click on the icon. Border on icon indicates that it is selected. to deselect, click anywhere on the left of the vertical line. To Select any icon, you must first deselect the current tool. You can also use right click to deselect a tool.
+
+To edit an image type the path after ./project
 
 Tools and Uses:
 
