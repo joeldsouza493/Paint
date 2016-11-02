@@ -3,6 +3,9 @@ Paint Application.
 Joel D'souza
 111503017
 
+Please UNZIP Paint.tar.gz and then compile make inside the Paint Folder (Due to usage of bitmaps)
+
+
 Paint is a free drawing program. It has a simple and easy-to-use interface. It provides a blank canvas on the right side of the vertical line and a variety of drawing tools on the left to help you be creative. Paint has 255 * 255 * 255 color combinations and you can choose any using Palette provided in the tools section. Paint can also save the canvas area in png format using the Save Tool.
 
 How to select icon ? 
